@@ -4,7 +4,7 @@
 
 ### Image Captioning Using Vision Transformer
 
-This project aims to address the critical challenge of generating descriptive sentences from images using attention mechanism. I created a multimodal deep learning architecture using PyTorch to generate captions for images.
+This project aims to address the critical challenge of generating descriptive sentences from images using the attention mechanism. I created a multimodal deep learning architecture using PyTorch to generate captions for images.
 
 <img width="210" alt="image" src="https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/bbae8e6e-1467-4d62-b400-e9ff9a476165">
 <img width="210" alt="image" src="https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/25edca75-45bb-4b39-8232-d98d136babea">
@@ -57,6 +57,7 @@ Built a Multiple Linear Regression model which considers age, sex, bmi, and smok
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 [View code on GitHub](https://github.com/Nagharjun17/Interactive-Linear-Regression-using-Widgets)
+
 ---
 
 ### Fine Tuning GPT3
