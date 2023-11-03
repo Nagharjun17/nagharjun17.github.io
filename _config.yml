@@ -9,11 +9,11 @@ description: > # your text below (remove <br> elements if you don't need line br
 
   <a href="https://github.com/Nagharjun17"><i class="fa-brands fa-github"></i></i> View My GitHub Profile</a>
   
-  <a href="https://scholar.google.com/citations?user=SSoAh7YAAAAJ&hl=en"><i class="fa-brands fa-github"></i></i> View My Google Scholar Profile</a>
+  <a href="https://scholar.google.com/citations?user=SSoAh7YAAAAJ&hl=en"><img src="/images/icons8-google-scholar-48.png" alt="LinkedIn Logo" width="20" height="20"> View My Google Scholar Profile</a>
   
-  <a href="https://huggingface.co/Nagharjun17"><i class="fa-brands fa-github"></i></i> View My Hugging Face Profile</a>
+  <a href="https://huggingface.co/Nagharjun17"><img src="/images/hf-logo.png" alt="LinkedIn Logo" width="20" height="20"> View My Hugging Face Profile</a>
   
-  <a href="https://leetcode.com/Nagharjun17/"><i class="fa-brands fa-github"></i></i> View My LeetCode Profile</a>
+  <a href="https://leetcode.com/Nagharjun17/"><img src="/images/IMG_8743 2.png" alt="LinkedIn Logo" width="20" height="20"> View My LeetCode Profile</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
