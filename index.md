@@ -1,4 +1,4 @@
-## Selected projects in data science, machine learning, NLP, and Computer Vision
+## Selected Projects in Data Science, Machine Learning, NLP, and Computer Vision
 
 ---
 
@@ -57,6 +57,18 @@ Built a Multiple Linear Regression model which considers age, sex, bmi, and smok
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 [View code on GitHub](https://github.com/Nagharjun17/Interactive-Linear-Regression-using-Widgets)
+---
+
+### Fine Tuning GPT3
+
+Fine-tuned a Large Language Model with 175B parameters. Implemented it using Python, OpenAI APIs, and Weights and Biases.
+
+<img width="766" alt="image" src="https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/6bbea7d3-9c6b-4fb3-8acf-440e5065193d">
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white) ![Weights&Biases](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00.svg?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+
+[View code on GitHub](https://github.com/Nagharjun17/Fine-Tuning-GPTs)
 
 ---
 
