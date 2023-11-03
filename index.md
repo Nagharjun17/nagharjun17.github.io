@@ -33,6 +33,20 @@ This project aims to address the problems of regulating traffic during rush hour
 
 ---
 
+### Skin Cancer Detection Web Application using Dilated ResNets
+
+An interactive web application for doctors and patients to ease the difficulty of skin cancer diagnosis. Built a classifier and segmentation model using TensorFlow. Created a web portal using React front-end, Flask back-end, and Cloud Firestore NoSQL Database.
+
+<img width="210" alt="image" src="https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/5b0e9141-f49f-4946-9cea-b4f5485edd83">
+<img width="210" alt="image" src="https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/35bf32a5-765c-4801-b562-d87202c5f54a">
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+[View code on GitHub](https://github.com/Nagharjun17/Skin-Cancer-Detection-User-Interface)
+
+---
+
 ## Research Publications
 My research works in the Machine Learning domain.
 
@@ -42,29 +56,3 @@ Karthik, R., Menaka, R., Kathiresan, G. S., Anirudh, M., & Nagharjun, M. (2022).
 
 Kathiresan, G., Anirudh, M., Nagharjun, M., & Karthik, R. (2021, May). Disease detection in rice leaves using transfer learning techniques. In Journal of Physics: Conference Series (Vol. 1911, No. 1, p. 012004). IOP Publishing.
 
-
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
