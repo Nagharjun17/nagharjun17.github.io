@@ -46,8 +46,13 @@ An interactive web application for doctors and patients to ease the difficulty o
 [View code on GitHub](https://github.com/Nagharjun17/Skin-Cancer-Detection-User-Interface)
 
 ---
+### Interactive Multiple Linear Regression to Predict Insurance Prices
+
+Built a Multiple Linear Regression model which considers age, sex, bmi, and smoking habits to predict the insurance cost. Used Scikit-Learn to build the model and SciPy for feature engineering. Used ANOVA for categorical features and Pearson Correlation Coefficient for continuous features.
 
 ![ezgif com-resize](https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/0c6bee16-bc92-46bd-bf80-3687e70d3d4c)
+
+[View code on GitHub](https://github.com/Nagharjun17/Interactive-Linear-Regression-using-Widgets)
 
 ---
 
