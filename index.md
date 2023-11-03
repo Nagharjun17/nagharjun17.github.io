@@ -47,6 +47,10 @@ An interactive web application for doctors and patients to ease the difficulty o
 
 ---
 
+https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/a7b7eaae-b777-45ae-8f46-9ab71aeb868c
+
+---
+
 ## Research Publications
 My research works in the Machine Learning domain.
 
