@@ -32,6 +32,17 @@ This project aims to address the problems of regulating traffic during rush hour
 [View code on GitHub](https://github.com/Nagharjun17/Big_Data_Project)
 
 ---
+
+## Research Publications
+My research works in the Machine Learning domain.
+
+Ramamurthy, K., Muthuswamy, A., Mathimariappan, N., & Kathiresan, G. S. A novel two‐staged network for skin disease detection using atrous residual convolutional networks. Concurrency and Computation: Practice and Experience, e7834.
+
+Karthik, R., Menaka, R., Kathiresan, G. S., Anirudh, M., & Nagharjun, M. (2022). Gaussian dropout based stacked ensemble CNN for classification of breast tumor in ultrasound images. Irbm, 43(6), 715-733.
+
+Kathiresan, G., Anirudh, M., Nagharjun, M., & Karthik, R. (2021, May). Disease detection in rice leaves using transfer learning techniques. In Journal of Physics: Conference Series (Vol. 1911, No. 1, p. 012004). IOP Publishing.
+
+
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
