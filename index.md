@@ -6,8 +6,8 @@
 
 This project aims to address the critical challenge of generating descriptive sentences from images using attention mechanism. I created a multimodal deep learning architecture using PyTorch to generate captions for images.
 
-<img width="420" alt="image" src="https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/bbae8e6e-1467-4d62-b400-e9ff9a476165">
-<img width="420" alt="image" src="https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/25edca75-45bb-4b39-8232-d98d136babea">
+<img width="210" alt="image" src="https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/bbae8e6e-1467-4d62-b400-e9ff9a476165">
+<img width="210" alt="image" src="https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/25edca75-45bb-4b39-8232-d98d136babea">
 
 
 
@@ -22,8 +22,8 @@ This project aims to address the critical challenge of generating descriptive se
 
 This project aims to address the problems of regulating traffic during rush hours and maximizing ad viewership at subway stations. I analyzed data using PySpark and built a real-time Machine Learning model predicting foot traffic using SparkML, Kafka, and MongoDB.
 
-<img width="420" alt="image" src="https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/01037978-12f7-423e-8df5-a9dfdb517ea6"> 
-<img width="420" alt="image" src="https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/4d21ee5b-fced-495f-b45d-b3de65ac1fe4">
+<img width="210" alt="image" src="https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/01037978-12f7-423e-8df5-a9dfdb517ea6"> 
+<img width="210" alt="image" src="https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/4d21ee5b-fced-495f-b45d-b3de65ac1fe4">
 
 
 
