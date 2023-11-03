@@ -2,6 +2,22 @@
 
 ---
 
+### Image Captioning Using Vision Transformer
+
+This project aims to address the critical challenge of generating descriptive sentences from images using attention mechanism. I created a multimodal deep learning architecture using PyTorch to generate captions for images.
+
+<img width="420" alt="image" src="https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/bbae8e6e-1467-4d62-b400-e9ff9a476165">
+<img width="420" alt="image" src="https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/25edca75-45bb-4b39-8232-d98d136babea">
+
+
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+[View code on GitHub](https://github.com/Nagharjun17/ImageCaptioningUsingVisionTransformer/tree/main)
+
+---
+
 ### NYC Subway Turnstile Data: Understanding Ridership Pattern
 
 This project aims to address the problems of regulating traffic during rush hours and maximizing ad viewership at subway stations. I analyzed data using PySpark and built a real-time Machine Learning model predicting foot traffic using SparkML, Kafka, and MongoDB.
