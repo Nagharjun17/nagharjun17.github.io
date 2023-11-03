@@ -6,9 +6,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   I love leveraging machine learning to build software applications. My work helps me find the best ways to solve real-world problems.
   <br><br>
   <a href="https://www.linkedin.com/in/nagharjun-mathi-mariappan-b61499169/"><i class="fab fa-linkedin"></i> View My LinkedIn Profile</a>
+
   <a href="https://github.com/Nagharjun17"><i class="fa-brands fa-github"></i></i> View My GitHub Profile</a>
+  
   <a href="https://scholar.google.com/citations?user=SSoAh7YAAAAJ&hl=en"><i class="fa-brands fa-github"></i></i> View My Google Scholar Profile</a>
+  
   <a href="https://huggingface.co/Nagharjun17"><i class="fa-brands fa-github"></i></i> View My Hugging Face Profile</a>
+  
   <a href="https://leetcode.com/Nagharjun17/"><i class="fa-brands fa-github"></i></i> View My LeetCode Profile</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
