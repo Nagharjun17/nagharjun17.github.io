@@ -52,6 +52,9 @@ Built a Multiple Linear Regression model which considers age, sex, bmi, and smok
 
 ![ezgif com-resize](https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/0c6bee16-bc92-46bd-bf80-3687e70d3d4c)
 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
 [View code on GitHub](https://github.com/Nagharjun17/Interactive-Linear-Regression-using-Widgets)
 
 ---
