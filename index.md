@@ -47,7 +47,7 @@ An interactive web application for doctors and patients to ease the difficulty o
 
 ---
 
-https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/a7b7eaae-b777-45ae-8f46-9ab71aeb868c
+![Screen-Recording-2023-11-03-at-2 03 05-PM](https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/3fe2d9bf-e4c7-4ee4-9e5f-ec77e9dfe75e)
 
 ---
 
