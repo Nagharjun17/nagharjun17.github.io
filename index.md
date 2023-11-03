@@ -1,3 +1,7 @@
+---
+title: Nagharjun's Portfolio
+---
+
 ## Selected Projects in Data Science, Machine Learning, NLP, and Computer Vision
 
 ---
