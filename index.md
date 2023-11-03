@@ -1,11 +1,14 @@
-## Portfolio
+## Selected projects in data science, machine learning, NLP, and Computer Vision
 
 ---
 
-### Category Name 1 
+### NYC Subway Turnstile Data: Understanding Ridership Pattern
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+This project aims to address the problems of regulating traffic during rush hours and maximizing ad viewership at subway stations. I analyzed data using PySpark and built a real-time Machine Learning model predicting foot traffic using SparkML, Kafka, and MongoDB.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
+[View code on GitHub](https://github.com/Nagharjun17/Big_Data_Project)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
