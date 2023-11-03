@@ -46,6 +46,7 @@ An interactive web application for doctors and patients to ease the difficulty o
 [View code on GitHub](https://github.com/Nagharjun17/Skin-Cancer-Detection-User-Interface)
 
 ---
+
 ### Interactive Multiple Linear Regression to Predict Insurance Prices
 
 Built a Multiple Linear Regression model which considers age, sex, bmi, and smoking habits to predict the insurance cost. Used Scikit-Learn to build the model and SciPy for feature engineering. Used ANOVA for categorical features and Pearson Correlation Coefficient for continuous features.
@@ -59,12 +60,27 @@ Built a Multiple Linear Regression model which considers age, sex, bmi, and smok
 
 ---
 
+### Urban Data Visualization using Python and Folium
+
+Created a visualization of Parks and Gyms in the City of Baton Rouge, Louisiana. Made use of publically available geojson files from https://data.brla.gov/. Used Folium, Pandas, GeoPandas, and Matplotlib to create map visualizations.
+
+<img width="867" alt="Screen Shot 2023-11-03 at 2 42 57 PM" src="https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/d63b5476-9c59-4e80-b306-6b5f3a165a9b">
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Folium](https://img.shields.io/badge/Folium-77B829.svg?style=for-the-badge&logo=Folium&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+[View code on GitHub](https://github.com/Nagharjun17/Urban_Data_Visualization)
+
+---
+
 ## Research Publications
 My research works in the Machine Learning domain.
 
 Ramamurthy, K., Muthuswamy, A., Mathimariappan, N., & Kathiresan, G. S. A novel two‐staged network for skin disease detection using atrous residual convolutional networks. Concurrency and Computation: Practice and Experience, e7834.
+[Link to the paper](https://drive.google.com/file/d/1VIdNn0osZnTGBcJGLjJgWW2ZWy3UC7SJ/view?usp=sharing)
 
 Karthik, R., Menaka, R., Kathiresan, G. S., Anirudh, M., & Nagharjun, M. (2022). Gaussian dropout based stacked ensemble CNN for classification of breast tumor in ultrasound images. Irbm, 43(6), 715-733.
+[Link to the paper](https://drive.google.com/file/d/1MaOSux7ChMgkrYB2yqhcDNpfZ2F-_lPE/view?usp=sharing)
 
 Kathiresan, G., Anirudh, M., Nagharjun, M., & Karthik, R. (2021, May). Disease detection in rice leaves using transfer learning techniques. In Journal of Physics: Conference Series (Vol. 1911, No. 1, p. 012004). IOP Publishing.
-
+[Link to the paper](https://drive.google.com/file/d/13HJtp_jQP41SY1tRRMX9GvoHRcxWFoYG/view?usp=sharing)
