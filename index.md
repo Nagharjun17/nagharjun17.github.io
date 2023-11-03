@@ -6,6 +6,9 @@
 
 This project aims to address the problems of regulating traffic during rush hours and maximizing ad viewership at subway stations. I analyzed data using PySpark and built a real-time Machine Learning model predicting foot traffic using SparkML, Kafka, and MongoDB.
 
+<img width="420" alt="image" src="https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/01037978-12f7-423e-8df5-a9dfdb517ea6">
+
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 [View code on GitHub](https://github.com/Nagharjun17/Big_Data_Project)
