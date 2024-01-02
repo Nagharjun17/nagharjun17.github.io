@@ -93,11 +93,11 @@ Created a visualization of Parks and Gyms in the City of Baton Rouge, Louisiana.
 ## Research Publications
 My research works in the Machine Learning domain.
 
-Ramamurthy, K., Muthuswamy, A., Mathimariappan, N., & Kathiresan, G. S. A novel two‐staged network for skin disease detection using atrous residual convolutional networks. Concurrency and Computation: Practice and Experience, e7834.
+Ramamurthy, K., Muthuswamy, A., Mathimariappan, N., & Kathiresan, G. S. **A novel two‐staged network for skin disease detection using atrous residual convolutional networks**. Concurrency and Computation: Practice and Experience, e7834.
 [Link to the paper](https://drive.google.com/file/d/1VIdNn0osZnTGBcJGLjJgWW2ZWy3UC7SJ/view?usp=sharing)
 
-Karthik, R., Menaka, R., Kathiresan, G. S., Anirudh, M., & Nagharjun, M. (2022). Gaussian dropout based stacked ensemble CNN for classification of breast tumor in ultrasound images. Irbm, 43(6), 715-733.
+Karthik, R., Menaka, R., Kathiresan, G. S., Anirudh, M., & Nagharjun, M. (2022). **Gaussian dropout based stacked ensemble CNN for classification of breast tumor in ultrasound images**. Irbm, 43(6), 715-733.
 [Link to the paper](https://drive.google.com/file/d/1MaOSux7ChMgkrYB2yqhcDNpfZ2F-_lPE/view?usp=sharing)
 
-Kathiresan, G., Anirudh, M., Nagharjun, M., & Karthik, R. (2021, May). Disease detection in rice leaves using transfer learning techniques. In Journal of Physics: Conference Series (Vol. 1911, No. 1, p. 012004). IOP Publishing.
+Kathiresan, G., Anirudh, M., Nagharjun, M., & Karthik, R. (2021, May). **Disease detection in rice leaves using transfer learning techniques**. In Journal of Physics: Conference Series (Vol. 1911, No. 1, p. 012004). IOP Publishing.
 [Link to the paper](https://drive.google.com/file/d/13HJtp_jQP41SY1tRRMX9GvoHRcxWFoYG/view?usp=sharing)
