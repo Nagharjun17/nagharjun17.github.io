@@ -9,7 +9,7 @@ title: Nagharjun's Portfolio
 
 This project tackles the pivotal task of evading ML-based ad blockers through advanced image manipulation techniques. I developed a multifaceted technique using Python, which strategically alters images to reduce the efficacy of ad-blocking algorithms.
 
-<img width="210" alt="image" src="https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/96d4b9c1-ed38-416a-9b26-d3dc5ce6f0d6">
+<img width="160" alt="image" src="https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/96d4b9c1-ed38-416a-9b26-d3dc5ce6f0d6">
 <img width="210" alt="image" src="https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/a5b73bd6-17ac-4688-9940-413b156ce6b8">
 
 
