@@ -5,6 +5,19 @@ title: Nagharjun's Portfolio
 ## Selected Projects in Data Science, Machine Learning, NLP, and Computer Vision
 
 ---
+### AdEvade: Outsmarting ML Ad Blockers
+
+This project tackles the pivotal task of evading ML-based ad blockers through advanced image manipulation techniques. I developed a multifaceted technique using Python, which strategically alters images to reduce the efficacy of ad-blocking algorithms.
+
+<img width="210" alt="image" src="https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/9e595a4f-cfc7-4249-8fe5-170210ba42ac">
+<img width="210" alt="image" src="https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/a5b73bd6-17ac-4688-9940-413b156ce6b8">
+
+
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](	https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+[View code on GitHub]([https://github.com/Nagharjun17/ImageCaptioningUsingVisionTransformer/tree/main](https://github.com/Nagharjun17/Perceptual_Ad-Blocker_Evasion))
 
 ### Image Captioning Using Vision Transformer
 
