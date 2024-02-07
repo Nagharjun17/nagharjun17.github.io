@@ -5,6 +5,21 @@ title: Nagharjun's Portfolio
 ## Selected Projects in Data Science, Machine Learning, NLP, and Computer Vision
 
 ---
+### CitiBikeFlow: NYC’s Cycling Visuals
+
+This project fetches real-time New York Citibike data and follows an ETL pipeline using Amazon EC2 and Apache Airflow. The data is fetched through a Python script using the requests library. Data transformations are done using Pandas and the data is stored in Amazon S3 which is transferred from S3 to Snowflake using event triggers and Snowpipe. Finally, Tableau is used to create map visualizations of New York City and the Citibike availability.
+
+<img width="320" alt="image" src="https://github.com/Nagharjun17/nagharjun17.github.io/assets/64778259/8b3c62d5-5ea9-4a8b-a798-5c57b6fc3e67">
+
+
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-35aedd?style=for-the-badge&logo=snowflake&logoColor=blue) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+[View Dashboard Online](https://nagharjun17.github.io/nyc-citibike-analytics/)
+
+[View code on GitHub](https://github.com/Nagharjun17/NYCitibike-Analytics)
+
 ### AdEvade: Outsmarting ML Ad Blockers
 
 This project tackles the pivotal task of evading ML-based ad blockers through advanced image manipulation techniques. I developed a multifaceted technique using Python, which strategically alters images to reduce the efficacy of ad-blocking algorithms.
@@ -17,7 +32,7 @@ This project tackles the pivotal task of evading ML-based ad blockers through ad
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](	https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
-[View code on GitHub]([https://github.com/Nagharjun17/ImageCaptioningUsingVisionTransformer/tree/main](https://github.com/Nagharjun17/Perceptual_Ad-Blocker_Evasion))
+[View code on GitHub](https://github.com/Nagharjun17/Perceptual_Ad-Blocker_Evasion)
 
 ### Image Captioning Using Vision Transformer
 
