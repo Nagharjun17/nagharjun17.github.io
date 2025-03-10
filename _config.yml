@@ -1,9 +1,11 @@
 title: Nagharjun Mathi Mariappan # your name (or website title) here
 logo: "/images/IMG_8743 2.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Research Assistant working on Large Language Models. Previously worked as a Data Scientist at LOCOMeX Inc. Graduate Student at NYU.
+  I’m a Data Scientist at Mount Sinai, working on applying machine learning to healthcare problems. I have a Master’s in Computer Engineering from NYU, where I built a strong foundation in ML, deep learning, and signal processing.
   <br><br>
-  I love leveraging machine learning to build software applications. My work helps me find the best ways to solve real-world problems.
+  Most of my recent work has been around time series modeling and transformer-based approaches for signal-to-signal tasks, particularly in respiratory flow prediction from plethysmography signals. I’m also interested in experimenting with different model architectures and running large models and algorithms on hardware efficiently.
+  <br><br>
+  Beyond my professional work, I enjoy playing football(soccer).
   <br><br>
   <a href="https://www.linkedin.com/in/nagharjun-mathi-mariappan-b61499169/"><img src="/images/317750_linkedin_icon.png" class="custom-icon" alt="LinkedIn Logo" width="20" height="20"> View My LinkedIn Profile</a>
   <br>
