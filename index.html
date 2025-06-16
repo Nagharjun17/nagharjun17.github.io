@@ -317,18 +317,31 @@
             </div>
             <div class="role brown-text text-darken-2">Data Scientist</div>
             <ul>
-              <li>
-                Generated airflow signal for home sleep-apnea studies lacking nasal cannulas by training a Dilated Residual CNN + Attention on plethysmography, reaching 84% recall and 75% precision.
-              </li>
-              <li>
-                Restored a failed MLflow service within 24h and 100% data integrity via custom backup/restore pods and automated MinIO data snapshots using Kubernetes CronJobs.
-              </li>
-              <li>Improved team model tracking, logging, experimentation, and versioning by 30% by deploying MLflow on Ubuntu Server, accelerating workflow efficiency and reproducibility.</li>
-              <li>Flagged and removed sensitive entities on clinical notes with a lightweight zero-shot GLiNER NER, blocking 98% of protected health information (PHI) leaks before LLM inference via AWS Bedrock.</li>
-              <li>
-                Reduced token usage by 40% by clustering redundant clinical note chunks in RAG using cosine similarity.
-              </li>
-            </ul>
+  <li>
+    <strong>Productionized </strong>a GPU-backed <strong>FastAPI</strong> microservice on Kubernetes that turns
+    scanned clinical-note PDFs into structured JSON; OCR → Naïve Bayes page filter
+    (FNR <strong>5.6 %</strong>) → HDBSCAN paragraph pruning → NER de-identification →
+    <strong>LLM</strong> extraction of <strong>15</strong> sleep-apnea symptoms with <strong>96.5 %</strong> precision
+    across <strong>1 000 +</strong> notes.
+  </li>
+  <li>
+    <strong>Built</strong> an on-prem LLM chat agent (Cogito-14B via Ollama + MCP) that answers
+    natural-language queries over <strong>PostgreSQL</strong> patient records and the research
+    filesystem; adopted by <strong>6 physicians</strong> and cut chart-lookup time
+    <strong>65 %</strong>.
+  </li>
+  <li>
+    <strong>Own</strong> an end-to-end ML platform: stood up two in-house <strong>Kubernetes</strong> clusters
+    on Proxmox, wired GitHub Actions CI/CD, <strong>MLflow</strong> tracking + drift alerts, and
+    Ingress/NodePort — shrinking ML deploys from days to <strong>&lt; 24 h</strong>.
+  </li>
+  <li>
+    <strong>Shipped</strong> a dual-stream <strong>LSTM</strong> that fuses global & early-sequence features
+    from flow-volume loops, boosting 3-class (Healthy / COPD / Fixed Obstruction)
+    weighted-F1 from <strong>0.85 → 0.91</strong> on <strong>500 +</strong> samples.
+  </li>
+</ul>
+
           </div>
           <div class="card-action">
             <span>July 2024 - Present | New York, NY</span>
@@ -353,16 +366,20 @@
             </div>
             <div class="role brown-text text-darken-2">Data Science Intern</div>
             <ul>
-              <li>
-                Lifted contract engagement 20% using a two-tower recommender system combining BERT text embeddings and company/contract metadata.
-              </li>
-              <li>
-                Slashed document-parsing time 90% by deploying a GPT-3.5 Lambda API for PDF/DOCX/PPT extraction.
-              </li>
-              <li>
-                Saved 8 h/week with Apache Airflow pipelines feeding AWS Redshift and S3.
-              </li>
-            </ul>
+  <li>
+    <strong>Lifted</strong> contract engagement <strong>20 %</strong> via a two-tower recommender that
+    fuses <strong>BERT</strong> text embeddings with company + contract metadata.
+  </li>
+  <li>
+    <strong>Slashed</strong> document-parsing time <strong>90 %</strong> by wrapping a GPT-3.5 extractor
+    in <strong>AWS Lambda</strong>.
+  </li>
+  <li>
+    <strong>Saved</strong> analysts <strong>8 h / week</strong> by orchestrating ETL to S3 / Redshift with
+    <strong>Apache Airflow</strong>.
+  </li>
+</ul>
+
           </div>
           <div class="card-action">
             <span>January 2024 - May 2024 | New York, NY</span>
@@ -419,6 +436,24 @@
             <h4 class="brown-text light">Publications on Towards Data Science</h4>
             
             <div class="row text-center">
+              <!-- GPU-enabled Kubernetes Article -->
+            <div class="col s12 m6 l4">
+              <div class="card small">
+                <div class="card-image">
+                  <img src="/assets/img/k8s_gpu.webp"
+                       alt="GPU-enabled Kubernetes Article" class="responsive-img">
+                </div>
+                <div class="card-content">
+                  <p>
+                    <a href="https://medium.com/@nagharjun2000/setting-up-a-single-node-kubernetes-cluster-with-gpu-support-on-ubuntu-22-04-c3703033e545"
+                       target="_blank">
+                      GPU-Enabled Kubernetes on Proxmox
+                    </a>
+                  </p>
+                </div>
+              </div>
+            </div>
+
 
               <div class="col s12 m6 l4">
                 <div class="card small">
