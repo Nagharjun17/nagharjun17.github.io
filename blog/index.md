@@ -5,7 +5,7 @@ title: "Blog / Tutorials"
 
 ## Posts on This Site
 {% if site.posts == empty %}
-_You haven’t published a local post yet. Add files to **_posts/** to see them here._
+.......
 {% else %}
 {% for post in site.posts %}
 * **[{{ post.title }}]({{ post.url | relative_url }})** – {{ post.date | date:"%b %d %Y" }}
