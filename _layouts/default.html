@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} | {{ site.title }} 👋</title>
+    <link rel="icon" href="{{ '/favicon.ico?v=2' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32x32.png?v=2' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ '/favicon-16x16.png?v=2' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png?v=2' | relative_url }}">
+    <link rel="mask-icon" href="{{ '/safari-pinned-tab.svg?v=2' | relative_url }}" color="#0f766e">
+    <link rel="icon" type="image/svg+xml" href="{{ '/assets/img/favicon.svg?v=2' | relative_url }}">
+    <meta name="theme-color" content="#ffffff">
+
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+    <style>
+      body { font-family: system-ui,-apple-system,sans-serif; }
+      .site-nav { padding:.75rem 1rem; background:#fafafa; }
+      .site-nav a { margin-right:.8rem; font-weight:600; color:#0369a1; text-decoration:none; }
+      .site-nav a:hover { text-decoration:underline; }
+      .projects-grid{
+        display:grid;
+        gap:1.5rem;
+        }
+      .project-card{
+        display:flex;
+        gap:1rem;
+        align-items:flex-start;
+        border:1px solid #e5e7eb;
+        padding:1rem;
+        border-radius:.5rem;
+        background:#fff;
+        }
+      .project-card img{
+        width:160px;
+        height:auto;
+        border-radius:.25rem;
+        object-fit:cover;
+        flex-shrink:0;
+        }
+      .project-body h3{
+        margin:.2rem 0 .4rem;
+        }
+      .project-year{
+        font-size:0.9rem;
+        color:#6b7280;
+        font-weight:400;
+        }
+      .project-stack{
+        font-style:italic;
+        color:#444;
+        margin:.1rem 0 .6rem;
+        }
+      .headshot{
+        width:140px;
+        border-radius:50%;
+        float:right;
+        margin:0 0 1rem 1rem;
+        }
+
+        @media (max-width:640px){
+      .project-card{ flex-direction:column; }
+      .project-card img{ width:100%; }
+      }
+      main { max-width:760px; margin:2rem auto; padding:0 1rem; }
+    </style>
+  </head>
+
+  <body>
+    <header class="site-header">
+    <nav class="site-nav">
+        <a href="{{ '/'            | relative_url }}">Home</a>
+        <a href="{{ '/experience/' | relative_url }}">Experience</a>
+        <a href="{{ '/projects/'   | relative_url }}">Projects</a>
+        <a href="{{ '/blog/'       | relative_url }}">Blog / Tutorials</a>
+        <a href="{{ '/' | relative_url }}#contact">Contact</a>
+    </nav>
+    </header>
+
+
+    <main>{{ content }}</main>
+
+    {% include topics.html %}
+  </body>
+</html>

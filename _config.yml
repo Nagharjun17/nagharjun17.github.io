@@ -1,0 +1,18 @@
+title: "Nagharjun Mathi Mariappan"
+description: "ML & DevOps portfolio"
+baseurl: ""
+permalink: pretty
+theme: minima
+
+collections:
+  experience:
+    output: true
+  projects:
+    output: true
+
+plugins:
+  - jekyll-redirect-from
+
+markdown: kramdown
+kramdown:
+  input: GFM

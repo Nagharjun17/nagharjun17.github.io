@@ -1,0 +1,17 @@
+- title: "GPU‑Enabled Kubernetes on Proxmox"
+  url: "https://medium.com/@nagharjun2000/setting-up-a-single-node-kubernetes-cluster-with-gpu-support-on-ubuntu-22-04-c3703033e545"
+  date: 2024-03-01
+  source: "Medium"
+  tags: ["Kubernetes", "GPU", "DevOps"]
+
+- title: "Minimizing KL Divergence Equals Minimizing Cross‑Entropy"
+  url: "https://medium.com/@nagharjun2000/minimizing-kl-divergence-equals-minimizing-cross-entropy-c645ba1b8511"
+  date: 2023-11-10
+  source: "Medium"
+  tags: ["ML Theory"]
+
+- title: "Exporting MLflow Experiments from Restricted HPC Systems"
+  url: "https://towardsdatascience.com/exporting-mlflow-experiments-from-restricted-hpc-systems/"
+  date: 2024-05-15
+  source: "Towards Data Science"
+  tags: ["MLflow", "MLOps"]
