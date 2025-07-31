@@ -9,9 +9,9 @@ title: "Home"
      alt="Nagharjun Mathi Mariappan"
      class="headshot">
 
-A **Data scientist** focused on turning raw biomedical data into reliable, actionable tools for clinicians. I design and ship end-to-end machine learning systems from data pipelines and model training to containerised, GPU backed deployments on Kubernetes with built-in tracking, CI/CD, and drift monitoring. Comfortable moving across the stack: **Python and PyTorch for modelling, MLflow for experiment management, GitHub Actions for automation, and FastAPI and LLMs for user-facing services**.
+**Data Scientist** focused on turning raw biomedical data into usable tools for clinicians. I design and deploy end to end machine learning systems from data pipelines and model training to containerised deployments on Docker and Kubernetes with CI/CD on local servers and cloud based. Comfortable moving across the stack: **Python and PyTorch for modelling, MLflow for experiment tracking, GitHub Actions for automation, and FastAPI for services**.
 
-Adept at balancing research rigour with production constraints, I enjoy collaborating with physicians and engineers alike to bring models safely into everyday workflows. Constantly learning, open-sourcing when I can, and motivated by projects that improve patient care and scientific insight.
+I enjoy collaborating with physicians and engineers to bring models into everyday workflows under various settings. Constantly learning, open sourcing when I can and motivated by interesting projects.
 
 Beyond my professional work, I enjoy playing soccer.
 
