@@ -11,7 +11,7 @@ title: "Home"
 
 **Data Scientist** focused on turning raw biomedical data into usable tools for clinicians. I design and deploy end to end machine learning systems from data pipelines and model training to containerised deployments on Docker and Kubernetes with CI/CD on local servers and cloud based. Comfortable moving across the stack: **Python and PyTorch for modelling, MLflow for experiment tracking, GitHub Actions for automation, and FastAPI for services**.
 
-Lately I’ve been exploring the systems side of ML—learning about GPU programming, ML compilers, and how models interact with hardware. To support this, I set up a Proxmox-based home server (Dell Precision T7910 with dual Xeons, 128 GB RAM, and an RTX 3060), where I experiment with CUDA kernels, MLIR/LLVM passes, and containerised deployments. It’s become my playground to understand the stack from hardware to model training.
+Lately I have been exploring the systems side of ML where I am learning about GPU programming, ML compilers, and how models interact with hardware. To support this, I set up a Proxmox-based home server on a Dell Precision T7910 with dual Xeons, 128 GB RAM, and an RTX 3060. I experiment with CUDA kernels, Triton, Apache TVM, MLIR/LLVM passes and containerised deployments.
 
 <img src="{{ 'assets/img/projects/set.JPG' | relative_url }}"
      alt="Server"
