@@ -11,7 +11,7 @@ image: assets/img/projects/flashattn.png
 {% if page.image %}
 <figure>
   <img src="{{ page.image | relative_url }}" alt="{{ page.title }} screenshot"
-     loading="lazy" width="640" style="height:auto;">
+     loading="lazy" width="540" style="height:auto;">
   <figcaption>{{ page.title }}</figcaption>
 </figure>
 {% endif %}
@@ -24,7 +24,7 @@ image: assets/img/projects/flashattn.png
 * Added handwritten notes with forward/backward derivations for better theoretical understanding.
 * Tested with PyTorch 2.3 and Triton 2.1 on RTX hardware.
 
-[GitHub Repo](https://github.com/Nagharjun17/Flash-Attention-Triton)
+**[GitHub Repo](https://github.com/Nagharjun17/Flash-Attention-Triton)**
 
 <div style="margin-top: 2rem;">
   <a href="/learning" style="text-decoration: none; font-weight: bold;">← Back</a>

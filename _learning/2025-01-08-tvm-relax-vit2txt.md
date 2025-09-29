@@ -11,7 +11,7 @@ image: assets/img/projects/tvm.png
 {% if page.image %}
 <figure>
   <img src="{{ page.image | relative_url }}" alt="{{ page.title }} screenshot"
-     loading="lazy" width="640" style="height:auto;">
+     loading="lazy" width="540" style="height:auto;">
   <figcaption>{{ page.title }}</figcaption>
 </figure>
 {% endif %}
@@ -27,7 +27,7 @@ image: assets/img/projects/tvm.png
   - Decode: 744.5 ms → 22.6 ms (**97% faster**)
 * Demonstrated full flow: IRModule export to compilation to CUDA execution.
 
-[GitHub Repo](https://github.com/Nagharjun17/Multimodal-Architecture-Optimisation-on-RTX3060-using-TVM)
+**[GitHub Repo](https://github.com/Nagharjun17/Multimodal-Architecture-Optimisation-on-RTX3060-using-TVM)**
 
 <div style="margin-top: 2rem;">
   <a href="/learning" style="text-decoration: none; font-weight: bold;">← Back</a>
