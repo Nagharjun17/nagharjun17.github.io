@@ -5,7 +5,7 @@ year: 2025
 stack: "Python • PyTorch • Triton"
 excerpt: "Custom implementation of Flash Attention forward/backward kernels with benchmarking."
 tags: [Triton, PyTorch, FlashAttention, GPU]
-image: assets/img/projects/flash-attn-triton.png
+image: assets/img/projects/flashattn.png
 ---
 
 {% if page.image %}
@@ -19,9 +19,9 @@ YOU CAN REPLICATE THIS PROJECT -> https://github.com/Nagharjun17/Flash-Attention
 
 * Implemented custom **Flash Attention** forward & backward kernels in Triton with causal mask support.
 * Integrated with PyTorch using `autograd.Function` for seamless gradient computation.
-* Benchmarked kernels vs. plain PyTorch math baseline → **~2.5× speedup** (f+b runtime: 2.757 ms → 1.116 ms on RTX GPU).
-* Added handwritten notes (PDF) with forward/backward derivations for better theoretical grounding.
-* Tested with PyTorch 2.3 + Triton 2.1 on RTX hardware.
+* Benchmarked kernels vs plain PyTorch math baseline with **~2.5× speedup** (forward and backward pass runtime: 2.757 ms to 1.116 ms on RTX GPU).
+* Added handwritten notes with forward/backward derivations for better theoretical understanding.
+* Tested with PyTorch 2.3 and Triton 2.1 on RTX hardware.
 
 [GitHub Repo](https://github.com/Nagharjun17/Flash-Attention-Triton)
 

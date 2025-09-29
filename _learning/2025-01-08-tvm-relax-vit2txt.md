@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "TVM Relax: ViT→Text Mini Demo (RTX 3060)"
+title: "TVM Relax: ViT Encoder to Transformer Decoder (multimodal architecture)"
 year: 2025
 stack: "Python • TVM • CUDA"
 excerpt: "Benchmarking a Vision Transformer encoder + transformer decoder in TVM Relax with baseline vs. optimized pipelines."
 tags: [TVM, Relax, CUDA, Transformer, ViT]
-image: assets/img/projects/tvm-relax-vit2txt.png
+image: assets/img/projects/tvm.png
 ---
 
 {% if page.image %}
@@ -17,14 +17,14 @@ image: assets/img/projects/tvm-relax-vit2txt.png
 
 YOU CAN REPLICATE THIS PROJECT -> https://github.com/Nagharjun17/Multimodal-Architecture-Optimisation-on-RTX3060-using-TVM
 
-* Built a **Vision Transformer encoder + transformer decoder** pipeline in **TVM Relax** (not a trained model, random weights).
+* Built a **Vision Transformer encoder + transformer decoder** pipeline in **TVM Relax** (random weights).
 * Compiled two pipelines on RTX 3060 (float16):
-  - **baseline_3060** → default legalization/fusion schedule
-  - **opt_vit2txt** → optimized with dlight scheduling for matmuls & reductions
-* Benchmarked encode + single-token decode:
-  - Encode: 666.5 ms → 24.4 ms (**~96% faster**)
-  - Decode: 744.5 ms → 22.6 ms (**~97% faster**, 1.3 tok/s → 44.2 tok/s)
-* Demonstrated full flow: IRModule export → compilation → CUDA execution.
+  - **baseline_3060** is default legalization/fusion schedule
+  - **opt_vit2txt** is optimized with dlight scheduling for matmuls & reductions
+* Benchmarked encode and single-token decode:
+  - Encode: 666.5 ms → 24.4 ms (**96% faster**)
+  - Decode: 744.5 ms → 22.6 ms (**97% faster**)
+* Demonstrated full flow: IRModule export to compilation to CUDA execution.
 
 [GitHub Repo](https://github.com/Nagharjun17/Multimodal-Architecture-Optimisation-on-RTX3060-using-TVM)
 
