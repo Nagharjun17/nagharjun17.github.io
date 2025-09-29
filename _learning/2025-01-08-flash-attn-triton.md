@@ -15,7 +15,7 @@ image: assets/img/projects/flashattn.png
 </figure>
 {% endif %}
 
-YOU CAN REPLICATE THIS PROJECT -> https://github.com/Nagharjun17/Flash-Attention-Triton
+**YOU CAN REPLICATE THIS PROJECT -> https://github.com/Nagharjun17/Flash-Attention-Triton**
 
 * Implemented custom **Flash Attention** forward & backward kernels in Triton with causal mask support.
 * Integrated with PyTorch using `autograd.Function` for seamless gradient computation.

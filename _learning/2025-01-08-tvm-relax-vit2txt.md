@@ -15,7 +15,7 @@ image: assets/img/projects/tvm.png
 </figure>
 {% endif %}
 
-YOU CAN REPLICATE THIS PROJECT -> https://github.com/Nagharjun17/Multimodal-Architecture-Optimisation-on-RTX3060-using-TVM
+**YOU CAN REPLICATE THIS PROJECT -> https://github.com/Nagharjun17/Multimodal-Architecture-Optimisation-on-RTX3060-using-TVM**
 
 * Built a **Vision Transformer encoder + transformer decoder** pipeline in **TVM Relax** (random weights).
 * Compiled two pipelines on RTX 3060 (float16):
