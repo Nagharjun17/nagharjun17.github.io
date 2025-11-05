@@ -9,9 +9,9 @@ title: "Home"
      alt="Nagharjun Mathi Mariappan"
      class="headshot">
 
-**Data Scientist** focused on turning raw biomedical data into usable tools for clinicians. I design and deploy end to end machine learning systems from data pipelines and model training to containerised deployments on Docker and Kubernetes with CI/CD on local servers and cloud based. Comfortable moving across the stack: **Python and PyTorch for modelling, MLflow for experiment tracking, GitHub Actions for automation, and FastAPI for services**.
+**Data Scientist** focused on turning raw biomedical data into usable tools for clinicians. I design and deploy end to end machine learning systems from data pipelines and model training to containerised deployments on Docker on local and cloud based servers. Comfortable moving across the stack: **Python and PyTorch for modelling, MLflow for experiment tracking, GitHub Actions for automation, and FastAPI for services**.
 
-Lately I have been exploring GPU programming, ML compilers, and model optimizations on hardware. To support this, I set up a Proxmox-based home server on a Dell Precision T7910 with dual Xeons, 128 GB RAM, and an RTX 3060 where I experiment with CUDA kernels, Triton, Apache TVM, MLIR/LLVM passes and containerised deployments.
+Lately I have been exploring GPU programming, ML compilers, and model optimizations on hardware. I am experimenting with CUDA kernels, Triton, Apache TVM, MLIR/LLVM passes and containerised deployments.
 
 <img src="{{ 'assets/img/projects/set.JPG' | relative_url }}"
      alt="Server"
